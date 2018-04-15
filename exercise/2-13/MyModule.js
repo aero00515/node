@@ -1,5 +1,6 @@
 function MyModule() {
     // this => new Object
+    // Call by sharing
 }
 
 MyModule.prototype.version = '1.0.5';
